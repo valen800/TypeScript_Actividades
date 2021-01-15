@@ -1,5 +1,5 @@
-let totalAdd = 0;
-let totalGreaterHundred = 0;
+let totalAdd: number = 0;
+let totalGreaterHundred: number = 0;
 let nFirst: number = introduceNumber();
 let nSecond: number = introduceNumber();
 let nThird: number = introduceNumber();
